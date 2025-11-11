@@ -1,3 +1,4 @@
 pytest
 dependency-injector
 pytest-mock
+pytest-cov
